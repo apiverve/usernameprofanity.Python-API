@@ -69,7 +69,8 @@ print(result)
   "data": {
     "username": "b00bs",
     "isProfane": true
-  }
+  },
+  "code": 200
 }
 ```
 
